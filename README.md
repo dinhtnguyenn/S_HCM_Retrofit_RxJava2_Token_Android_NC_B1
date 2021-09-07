@@ -1,4 +1,4 @@
-# S_HCM_Retrofit_RxJava2_Android_B7
-S_HCM_Retrofit_RxJava2_Android_B7
+# S_HCM_Retrofit_RxJava2_Token_Android_NC_B1
+S_HCM_Retrofit_RxJava2_Token_Android_NC_B1
 
-Project API ASP.NET: https://github.com/dinhtnguyenn/S_HCM_API_ASP_NET_B7
+Project API ASP.NET Core: https://github.com/dinhtnguyenn/S_HCM_API_ASP_NET_CORE_AND_JWT_NC_B1
