@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="demo_1">Demo 1</string>
+    <string name="demo_2">Demo 2</string>
+    <string name="demo_3">Demo 3</string>
+    <string name="demo_4">Demo 4</string>
+    <string name="demo_5">Demo 5</string>
+    <string name="get_data_1">Get Data 1</string>
+    <string name="get_data_2">Get Data 2</string>
+    <string name="get_data_3">Get Data 3</string>
+    <string name="get_data_4">Get Data 4</string>
+    <string name="get_data_5">Get Data 5</string>
+    <string name="add_product">Add Product</string>
+    <string name="ap_dung_thuc_te">Áp dụng thực tế</string>
+    <string name="them_san_pham">Thêm sản phẩm</string>
+    <string name="ten_san_pham">Tên sản phẩm</string>
+    <string name="gia_tien">Giá tiền</string>
+    <string name="th_m">Thêm</string>
+</resources>
